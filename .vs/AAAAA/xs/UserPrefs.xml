@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{833C1593-B612-8D65-AB06-627749D35966}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/title.cs">
+    <Files>
+      <File FileName="Assets/Script/pl.cs" Line="49" Column="1" />
+      <File FileName="Assets/Script/onefrase.cs" Line="11" Column="35" />
+      <File FileName="Assets/Script/title.cs" Line="8" Column="32" />
+      <File FileName="Assets/Script/RotateText.cs" Line="45" Column="1" />
+      <File FileName="Assets/Script/TouchManager.cs" Line="21" Column="26" />
+      <File FileName="Assets/Script/ButtomController.cs" Line="21" Column="5" />
+      <File FileName="Assets/Script/musicPl.cs" Line="28" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
